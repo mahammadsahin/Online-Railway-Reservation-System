@@ -1,0 +1,13 @@
+input, textarea {
+    border: none;
+    border-bottom: 2px solid rgb(128, 126, 126);
+    background: transparent;
+    outline: none;
+    width: 95%;
+  }
+  details{
+    display: inline;
+    width: 250px;
+    border: 2px solid black;
+    text-align: center;
+  }
